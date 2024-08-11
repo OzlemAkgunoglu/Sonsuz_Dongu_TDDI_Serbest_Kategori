@@ -1,5 +1,6 @@
 # Sonsuz_Dongu_TDDI_Serbest_Kategori
-Sonsuz Döngü Teknofest Doğal Dil İşleme Serbest Kategori
+##Sonsuz Döngü Teknofest Doğal Dil İşleme Serbest Kategori
+#Acıkhack2024TDDİ
 
 AUTHORS
 [Öznur Birinci](https://github.com/oznrbrnc)
