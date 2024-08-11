@@ -1,3 +1,7 @@
 # Sonsuz_Dongu_TDDI_Serbest_Kategori
 Sonsuz Döngü Teknofest Doğal Dil İşleme Serbest Kategori
-@zeynepslky
+
+Colabrators
+[Öznur Birinci](github.com/oznrbrnc)
+[Zeynep Çelik](github.com/zeynepslky)
+[Özlem Akgünoğlu](github.com/ozlemakgunoglu)
